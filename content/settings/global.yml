@@ -1,8 +1,6 @@
 siteTitle: Whitesmoke
-siteUrl: 'https://whitesmoke.netlify.com'
-siteDescription: >-
-  A starter project for creating lightning-fast websites with Gatsby Netlify
-  CMS.
+siteUrl: 'http://dreamy-tiramisu-07af32.netlify.app/'
+siteDescription: Netlify CMS.
 socialMediaCard:
-  image: /images/uploads/card-og.png
+  image: /images/uploads/pepperoni-balls.png
 headerScripts: <!-- Add your analytics scripts / verification meta here -->
